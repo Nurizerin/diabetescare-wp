@@ -1,16 +1,16 @@
 Diabetes Care Collaboration Hub (WordPress Project)
 
+## 📂 Project Information
+- **WordPress Site Title:** Diabetes Care Collaboration Hub  
+- **Admin Username:** `admin`  
+- **Admin Password:** `Gang906@906`  
+- **Admin Email:** `nurizerin1515@gmail.com`  
+
+- **Frontend URL:** [http://localhost/wordpress/](http://localhost/wordpress/)  
+- **Backend (Admin) URL:** [http://localhost/wordpress/wp-admin/](http://localhost/wordpress/wp-admin/)  
+- **Database (phpMyAdmin):** [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/)  
 
 
-WordPress
-Site Title: Diabetes Care Collaboration Hub
-username: admin	
-password: Gang906@906
-email: nurizerin1515@gmail.com 
-
-frontend url: http://localhost/wordpress/
-backend url: http://localhost/wordpress/wp-admin/
-database url: http://localhost/phpmyadmin/
 
 ## Task 1 database setup, backend setup and frontend pages setup process Completed by Nuri
 
