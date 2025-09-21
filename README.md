@@ -17,7 +17,7 @@ Diabetes Care Collaboration Hub (WordPress Project)
 Now the remaining tasks are task 2 and 3.
 
 for these tasks:
-### 2. then extract the zip file in the wp-content directory.
+### 2. Extract the zip file in the wp-content directory.
 ### 3. put the (plugins , themes and upload) files in the Windows:\xampp\htdocs\wordpress\wp-content  folder
 ### 4. then run the Xampp server (Start  Apache & MySQL)
 ### 5. Import database  "diabetesdb.sql"  in   "http://localhost/phpmyadmin/"
