@@ -1,50 +1,26 @@
 Diabetes Care Collaboration Hub (WordPress Project)
 
-This repository contains the WordPress project files (themes, plugins, uploads) for our Assignment 2: WordPress Build and Content Management.
-The project is developed locally using XAMPP and shared via GitHub for collaboration.
-
-📂 Project Structure
-
-/wp-content/themes/ → Custom Child Theme (Astra-based)
-
-/wp-content/plugins/ → Any required plugins
-
-/wp-content/uploads/ → Demo images, wireframes, documents
-
-/db/database.sql → Database export (phpMyAdmin)
-
-👉 WordPress core files (wp-admin, wp-includes, etc.) are excluded from this repo.
-
-⚙️ Local Setup (XAMPP)
-
-Follow these steps to run the project locally:
-
-Clone this repo into your XAMPP htdocs folder:
-
-cd C:/xampp/htdocs/
-git clone https://github.com/your-username/diabetescare-wp.git diabetescare
 
 
-Start XAMPP → Enable Apache and MySQL.
+WordPress
+Site Title: Diabetes Care Collaboration Hub
+username: admin	
+password: Gang906@906
+email: nurizerin1515@gmail.com 
 
-Create a new database in phpMyAdmin:
+frontend url: http://localhost/wordpress/
+backend url: http://localhost/wordpress/wp-admin/
+database url: http://localhost/phpmyadmin/
 
-Go to http://localhost/phpmyadmin/
+## Task 1 database setup, backend setup and frontend pages setup process Completed by Nuri
 
-Create a database called diabetesdb
+Now the remaining tasks are task 2 and 3.
 
-Import the SQL file from /db/database.sql
-
-Open the site in your browser:
-
-http://localhost/diabetescare/
-
-
-Login to WordPress Admin:
-
-http://localhost/diabetescare/wp-admin/
-
-
-Username: admin (or as shared)
-
-Password: ******
+for these tasks:
+# 1. at first you need to download the wp-content and diabetesdb.sql files.
+# 2. then extract the zip file in the wp-content directory.
+# 3. put the plugins , themes and upload files in the Windows:\xampp\htdocs\wordpress\wp-content  folder
+# 4. then run the Xampp server (Start  Apache & MySQL)
+# 5. Import database  "diabetesdb.sql"  in   "http://localhost/phpmyadmin/"
+# 6. run backend http://localhost/wordpress/wp-admin/
+# 7. run frontend http://localhost/wordpress/
